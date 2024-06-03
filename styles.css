@@ -168,7 +168,7 @@ Contact info styles
   color: var(--secondary-text-color);
   text-align: justify;
 }
-Experience and additional info styles
+/* Experience and additional info styles */
 
 .experiences {
   flex: 1 1 60%;
